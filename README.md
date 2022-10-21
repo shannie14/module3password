@@ -4,4 +4,4 @@
 
 ##Technologies Project is created with Vanilla Javascript.
 
-##Run App can be used in Heroku: 
+##Run App at deployed URL: https://shannie14.github.io/module3password/
